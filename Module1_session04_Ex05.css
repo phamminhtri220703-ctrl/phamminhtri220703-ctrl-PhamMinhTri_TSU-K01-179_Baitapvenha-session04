@@ -1,7 +1,15 @@
-.black{
-    font-weight: bold;
+h1{
+    color: yellow;
 }
-
-.red{
+.bule{
     color: blue;
+}
+.red{
+    color: red;
+}
+.yellow{
+    color: green;
+}
+.bt1{
+    background-color: yellow;
 }
